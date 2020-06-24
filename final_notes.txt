@@ -1,0 +1,5 @@
+20200623
+
+This is a list of final notes of points that I think should be addressed or confirmed.
+
+1. Using Katana, About page. More on Compute?
